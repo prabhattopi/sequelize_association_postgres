@@ -3,6 +3,7 @@
 ```
 git clone https://github.com/prabhattopi/sequelize_association_postgres.git
 cd sequelize_association_postgres
+npm i 
 npm run dev
 ```
 ### Don't forget to put .env file of yours
